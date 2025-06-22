@@ -120,3 +120,8 @@ dependencies/gitman.log
 # Ignore venv
 .venv/
 venv/
+
+
+# new
+dependencies/
+devcontainer/devcontainer.json
