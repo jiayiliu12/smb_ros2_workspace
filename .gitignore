@@ -121,4 +121,7 @@ dependencies/gitman.log
 .venv/
 venv/
 
+
+# new
 dependencies/
+devcontainer/devcontainer.json
